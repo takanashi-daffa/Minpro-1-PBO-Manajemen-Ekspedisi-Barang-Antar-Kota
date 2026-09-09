@@ -62,3 +62,4 @@ Contohnya pada class **Pelanggan**:
     }
 
 Getter digunakan untuk mengambil data, sedangkan setter digunakan untuk mengubah data.
+
